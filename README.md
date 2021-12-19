@@ -6,6 +6,8 @@
 ![License](https://img.shields.io/github/license/pscedu/singularity-salmon)
 
 # singularity-salmon
+<img alt="salmon logo" src="https://github.com/COMBINE-lab/salmon/raw/master/doc/salmon_logo.png" width="600">
+
 Singularity recipe for [salmon](https://github.com/COMBINE-lab/salmon).
 ## Installing the container on Bridges 2
 Copy the
